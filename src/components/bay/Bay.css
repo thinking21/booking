@@ -1,0 +1,98 @@
+.sectionh{
+    position: relative;
+    margin-top: 200px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-left: 100px;
+}
+
+.qzw{
+    margin-left: -50px;
+}
+
+.qsw{
+    padding-top: 10px;
+    color: #35474F;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.qaw{
+    padding-top: 10px;
+    color:grey;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.dew{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 50vh;
+}
+
+.dert{
+    border-radius: 50%;
+}
+
+.nkuu{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    position: relative;
+    grid-gap: 4rem;
+    height: 50vh;
+}
+
+.gyc{
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.cece{
+    margin-left:20px;
+}
+
+.gyv{
+    padding-top: 15px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.hieq{
+    width: 350px;
+    margin-left: -60px;
+}
+
+.hio{
+    width: 350px;
+}
+
+.htx{
+    text-transform: uppercase;
+    color: #5C5C5C;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.opoj{
+    margin-left: -120px;
+}
+
+.bgt{
+    margin-top: -50px;
+}
+
+.htu{
+    color: #35474F;
+    font-weight: 400;
+    font-size: 85px;
+    margin-top: -60px;
+}
+
+.hty{
+    color: #35474F;
+    font-weight: 400;
+    font-size: 85px;
+}

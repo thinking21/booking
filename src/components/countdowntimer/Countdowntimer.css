@@ -1,0 +1,67 @@
+.appm{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 410px;
+}
+
+.countdown{
+    width: 600px;
+    height: 100px;
+    border: 2px solid white;
+    font-family: "Oswald";
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.countdown span{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.twonumber{
+    width: 2ch;
+}
+
+.dret{
+    position: absolute;
+    color: rgb(198, 198, 198);
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.ta{
+    margin-left: -10px;
+    padding-right: 40px; 
+}
+
+.okos{
+    margin-right: 30px;
+}
+
+.okoa{
+    margin-right: 40px;
+}
+
+.okob{
+    margin-right: 50px;
+}
+
+.okoc{
+    margin-right: 50px;
+}
+
+.fkfe{
+    margin-right: 50px;
+}
+
+.fkfa{
+    margin-right: 50px;
+}
+
+.fkfb{
+    margin-right: 50px;
+}

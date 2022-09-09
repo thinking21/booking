@@ -1,0 +1,18 @@
+.de{
+    padding-top: 100px;
+    position: relative;
+    background:  white;
+    margin-top: 100px;
+}
+
+.vc{
+    font-size: 35px;
+    color: #35474F;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.xs{
+    text-align: center;
+    font-size: 17px;
+}

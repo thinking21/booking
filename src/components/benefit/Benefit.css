@@ -1,0 +1,47 @@
+.fom{
+    position: relative;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.bd{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 150px;
+    color: #35474F;
+}
+
+.wh{
+    margin-left: 85px;
+    color: #35474F;
+}
+.cc{
+    margin-left: 130px;
+    transition: transform 0.4s;
+}
+.cc:hover{
+    transform: translateY(-10px);
+    cursor:pointer
+}
+
+.kk{
+    text-align: center;
+    font-size: 13px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.bm{
+    text-align: center;
+}
+
+.vv{
+    margin-top: 50px;
+    padding-right: 70px;
+}
+
+.ds{
+    width: 1000px;
+    height: 720px;
+}
