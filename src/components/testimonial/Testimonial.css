@@ -31,12 +31,6 @@
     line-height: 30px;
     position: absolute;
     top: 25%;
-<<<<<<< HEAD
-    left: 50%;
-    transform: translate(-50%);
-    display: none;
-}
-=======
     left: 10%;
     transform: scale(0.94);
     display: none;
@@ -60,7 +54,7 @@
       filter: blur(0);
     }
   }
->>>>>>> d7701f5 (type something)
+
 
 .user-pic{
     width: 65px;
@@ -69,11 +63,8 @@
     margin: 10px;
     cursor:pointer;
     filter: grayscale(100%);
-<<<<<<< HEAD
-=======
     transition-delay: .8s;
     transition: 1.5s;
->>>>>>> d7701f5 (type something)
 }
 
 .user-text span{
@@ -88,15 +79,12 @@
     display: block;
 }
 
-<<<<<<< HEAD
-=======
 .active-tab{
     opacity: 1;
     width: 100px;
     height: 100px;
 }
 
->>>>>>> d7701f5 (type something)
 .user-pic.active-pic{
     width: 80px;
     filter: none;

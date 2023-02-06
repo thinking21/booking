@@ -6,17 +6,6 @@ import {MdOutlineKingBed} from "react-icons/md"
 import {BsDisplay} from 'react-icons/bs'
 import {BiExpand} from "react-icons/bi"
 
-<<<<<<< HEAD
-const Pagnition = ({cardData}) => {
-    const [noOfElement, setnoOfElement] = useState(6);
-    const loadMore = () => {
-        setnoOfElement(noOfElement + noOfElement);
-    }
-    
-
-    const slice = data.cardData.slice(0, noOfElement)
-=======
-
 const imagePerRow = 6;
 export const Pagnition = ({cardData}) => {
 
@@ -24,16 +13,12 @@ export const Pagnition = ({cardData}) => {
     const loadMore = () => {
         setnoOfElement(noOfElement + imagePerRow);
     }
->>>>>>> d7701f5 (type something)
+
 
   return (
     <div>
     <div className="card-con">
-<<<<<<< HEAD
-        {slice.map((item, index)=>{
-=======
         {data.cardData?.slice(0, noOfElement)?.map((item, index)=>{
->>>>>>> d7701f5 (type something)
             return(
                 <div className="jo" key={index}>
                     <div className="image-con">
@@ -51,17 +36,12 @@ export const Pagnition = ({cardData}) => {
                 </div>
                 )
         })}
-<<<<<<< HEAD
-    </div>
-    <button className="btb" onClick={() => loadMore()}>See More</button> 
-=======
 
     </div>
     {noOfElement < data.cardData?.length && (
     <button className="btb" onClick={() => loadMore()}>See More</button> 
     )}
 
->>>>>>> d7701f5 (type something)
     </div>
   )
 }
