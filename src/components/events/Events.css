@@ -1,0 +1,106 @@
+.wtf{
+    padding-top: 80px;
+    margin-bottom: 750px;
+}
+
+.gtry{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 300px;
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
+
+.gtre{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 300px;
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
+
+.gtr{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 300px;
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
+
+.colee{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/vvr.jpeg);
+    background-size: 360px 600px;
+    width: 360px;
+    height: 600px;
+    float: left;
+    transition: transform 0.4s;
+    cursor: pointer;
+}
+
+.colee:hover{
+    transform: translateY(-30px);
+}
+
+.coles{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/brrr.webp);
+    background-size: 360px 600px;
+    width: 360px;
+    height: 600px;
+    float: left;
+    transition: transform 0.4s;
+    cursor: pointer;
+}
+
+.coles:hover{
+    transform: translateY(-30px);
+}
+
+.coless{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/meee.jpeg);
+    background-size: 360px 600px;
+    width: 360px;
+    height: 600px;
+    float: left;
+    transition: transform 0.4s;
+    cursor: pointer;
+}
+.coless:hover{
+    transform: translateY(-30px);
+}
+
+
+.colees{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/spaa.avif);
+    background-size: 360px 600px;
+    width: 360px;
+    height: 600px;
+    float: left;
+    transition: transform 0.4s;
+    cursor: pointer;
+}
+
+.colees:hover{
+    transform: translateY(-30px);
+}
+
+.ggs{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.ttm{
+    color: #35474F;
+    font-size: 35px;
+}
+
+.ttb{
+    padding-top: 10px;
+    font-size: 17px;
+}
+

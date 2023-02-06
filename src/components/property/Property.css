@@ -1,0 +1,27 @@
+.pList{
+    width: 100%;
+    max-width: 1224px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.pListItem{
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.pListImg{
+    object-fit: cover;
+}
+
+h2{
+    color: #35474F;
+}
+
+.rr{
+    margin-top: -15px;
+    font-size: 15px;
+    color: #35474F;
+}

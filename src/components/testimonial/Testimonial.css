@@ -1,0 +1,111 @@
+.containert{
+    position: relative;
+    width: 100%;
+    min-height: 70vh;
+    background: rgb(239, 239, 239);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.testimonial-pic{
+    margin-top: 70px;
+}
+
+.testimonials{
+    padding-top: 100px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.testimonial-text{
+    width: 100%;
+    height: 350px;
+    position: relative;
+}
+
+.user-text{
+    width: 80%;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: scale(0.94);
+    display: none;
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
+@keyframes scale {
+    100% {
+      transform: scale(1);
+    }
+  }
+
+.ips{
+    display: inline-block;
+  opacity: 0;
+  animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+@keyframes fade-in {
+    100% {
+      opacity: 1;
+      filter: blur(0);
+    }
+  }
+
+.user-pic{
+    width: 65px;
+    padding: 5px;
+    border-radius: 50%;
+    margin: 10px;
+    cursor:pointer;
+    filter: grayscale(100%);
+    transition-delay: .8s;
+    transition: 1.5s;
+}
+
+.user-text span{
+    display: block;
+    font-size: 15px;
+    font-weight: 700;
+    color: grey;
+    text-transform: uppercase;
+}
+
+.user-text.active-text{
+    display: block;
+}
+
+.active-tab{
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+}
+
+.user-pic.active-pic{
+    width: 80px;
+    filter: none;
+    transition: .5s;
+}
+
+.ino{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.inbv{
+    text-align: center;
+    font-size: 17px;
+}
+
+.htmi{
+    text-align: center;
+    text-transform: uppercase;
+    color: #5C5C5C;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: -20px;
+}

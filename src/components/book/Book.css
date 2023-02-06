@@ -1,0 +1,39 @@
+.bga{
+    margin-top: 100px;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../../images/cge.webp);
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+    background-attachment: fixed;
+}
+
+.htmc{
+    padding-top: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(219, 219, 219);
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.inoc{
+    margin-top: -1px;
+    font-size: 45px;
+    color: rgb(219, 219, 219);
+    text-align: center;
+    font-weight: 400;
+}
+
+.inbvc{
+    padding-top: 30px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(219, 219, 219);
+}
+
+.inbvw{
+    padding-top: 5px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(219, 219, 219);
+}

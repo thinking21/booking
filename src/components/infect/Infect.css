@@ -1,0 +1,32 @@
+.hihi{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 89%;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 6rem;
+}
+
+.kioa{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.smr{
+    color: #35474F;
+    font-size: 22px;
+}
+
+.tmr{
+    margin-right: -30px;
+    margin-left: -10px;
+    margin-top: -28px;
+}
+
+.tmrr{
+    margin-right: -30px;
+    margin-left: -25px;
+    margin-top: -28px;
+}

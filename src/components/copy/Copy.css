@@ -1,0 +1,24 @@
+.jife{
+    height: 13vh;
+    background: rgb(35, 35, 35);
+}
+
+.jife:after{
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 88%;
+    border-top: 1px solid grey;
+}
+
+.tope{
+    position: absolute;
+    padding-top: 54px;
+    
+}
+
+.sare{
+    padding-top: 5px;
+    padding-left: 480px;
+    font-size: 16px;
+}

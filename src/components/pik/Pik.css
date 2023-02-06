@@ -1,0 +1,50 @@
+.bge{
+    margin-top: 100px;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../../images/freepi.webp);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    background-attachment: fixed;
+}
+
+.jiji{
+    padding-top: 60px;
+    font-size: 30px;
+    color: rgb(229, 229, 229);
+    text-align: center;
+}
+
+.tota{
+    padding-top: 15px;
+    font-size: 16px;
+    color: rgb(155, 155, 155);
+    text-align: center;
+}
+
+.totb{
+    padding-top: 20px;
+    font-size: 20px;
+    color: rgb(229, 229, 229);
+    text-align: center;
+}
+
+
+.btca{
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 2px;
+    margin-left: 650px;
+    margin-top: 10px;
+    border: none;
+    padding: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.7s ease;
+    color: #35474F;
+}
+
+.btca:hover{
+    background-color: rgb(70,130,180);
+    color: white;
+}

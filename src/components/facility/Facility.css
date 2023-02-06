@@ -1,0 +1,88 @@
+.fac{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 6rem;
+}
+
+.viyy{
+    margin-top: 120px;
+    margin-left: 100px;
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.made{
+    border-radius: 5px;
+}
+
+.mafe{
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.htm{
+    margin-top: 120px;
+    text-transform: uppercase;
+    color: #5C5C5C;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.hts{
+    margin-top: -10px;
+    color: #35474F;
+    font-weight: 400;
+    font-size: 65px;
+}
+
+.gyce{
+    width: 85%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.jike{
+    filter: drop-shadow(.5em .5em .5em);
+    margin-top: 50px;
+    margin-left: 270px;
+    width: 90px;
+    background: white;
+    height: 350px;
+    position: absolute;
+}
+
+.hbr{
+    color: #35474F;
+    font-size: 27px;
+    text-align: center;
+}
+
+.htw{
+    font-size: 12px;
+    margin-top: -40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #5C5C5C;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+ul{
+    margin-left: -40px;
+}
+
+.dea{
+    color: #35474F;
+    font-weight: 500;
+    position: absolute;
+    margin-left: 13px;
+    margin-top: -1px;
+}
+
+.gg{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
